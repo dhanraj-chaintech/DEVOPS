@@ -21,6 +21,6 @@ The 'vagrant' branch contains configurations and scripts for setting up a develo
 1. Clone the repository and switch to the 'vagrant' branch:
 
    ```bash
-   git clone https://github.com/DHANRAJCHOUDHARY244/DEVOPS.git
+   git clone -b vagrant https://github.com/DHANRAJCHOUDHARY244/DEVOPS.git
    cd DEVOPS
    git checkout vagrant
